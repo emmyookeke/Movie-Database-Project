@@ -1,0 +1,31 @@
+Movie_ ID,Movie_ Name,Movie_ Released_ Year,Movie_Lead_ Studio,Movie_ Language,Movie_ Category,Movie_ Duration_ in_Min,Movie_ Worldwide _Earning_ in_$M,Movie_ Type,Director_ID
+1000,Zack and Miri Make a Porno,2008,The Weinstein Company,English,Romance,101,41.94,Hollywood,100
+1001,Youth in Revolt,2010,The Weinstein Company,English,Comedy,90,19.62,Hollywood,110
+1002,When in Rome,2010,Disney,English,Comedy,91,43.04,Hollywood,120
+1003,What Happens in Vegas,2008,Fox,English,Comedy,99,219.37,Hollywood,130
+1004,Water For Elephants,2011,20th Century Fox,English,Drama,120,117.09,Hollywood,140
+1005,Waitress,2007,Independent,English,Romance,108,22.18,Hollywood,150
+1006,Twilight,2008,Summit,English,Romance,122,376.66,Hollywood,160
+1007,Penelope,2008,Summit,English,Comedy,144,20.74,Hollywood,170
+1008,Over Her Dead Body,2008,New Line,English,Comedy,95,20.71,Hollywood,180
+1009,My Week with Marilyn,2011,The Weinstein Company,English,Drama,99,8.26,Hollywood,190
+1010,Music and Lyrics,2007,Warner Bros.,English,Romance,104,145.9,Hollywood,200
+1011,Leap Year,2010,Universal,English,Comedy,100,32.59,Hollywood,210
+1012,Knocked Up,2007,Universal,English,Comedy,129,219,Hollywood,220
+1013,Jane Eyre,2011,Universal,English,Romance,120,30.15,Hollywood,230
+1014,Good Luck Chuck,2007,Lionsgate,English,Comedy,101,59.19,Hollywood,240
+1015,Going the Distance,2010,Warner Bros.,English,Comedy,103,42.05,Hollywood,250
+1016,Gnomeo and Juliet,2011,Disney,English,Animation,84,193.97,Hollywood,260
+1017,Ghosts of Girlfriends Past,2009,Warner Bros.,English,Comedy,100,102.22,Hollywood,270
+1018,Four Christmases,2008,Warner Bros.,English,Comedy,88,161.83,Hollywood,280
+1019,Fireproof,2008,Independent,English,Drama,122,33.47,Hollywood,290
+1020,Enchanted,2007,Disney,English,Comedy,107,340.49,Hollywood,300
+1021,Dear John,2010,Sony,English,Drama,108,114.97,Hollywood,310
+1022,Beginners,2011,Independent,English,Comedy,105,14.31,Hollywood,320
+1023,3 Idiots,2009,Vinod Chopra Films,Hindi,Comedy,171,4000,Bollywood,330
+1024,Lagaan,2001,Aamir Khan Productions,Hindi,Romance ,224,659,Bollywood,340
+1025,My Name Is Khan,2010,Dharma Productions,Hindi,Drama,165,48.77,Bollywood,350
+1026,Baahubali,2015,Arka Media Works,Telugu,Thriller,159,6500,Bollywood,360
+1027,Dilwale Dulhania Le Jayenge,1995,Yash Chopra,Hindi,Romance,189,2000,Bollywood,380
+1028,Oh My God,2012,,Hindi,Comedy,165,1200,Bollywood,390
+1029,Pushpa,2021,Mythri Movie Makers,Telugu,Drama,179,3730,Bollywood,370

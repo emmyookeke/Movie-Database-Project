@@ -1,0 +1,31 @@
+Actor_ID,Actor_First_Name,Actor_Last_Name,Actor_Age_in_Years,Actor_Location,Movie_ID
+10,Seth,Rogen,53,Los Angeles,1000
+11,Michael,Cera,49,New York,1001
+12,Josh,Duhamel,37,North Dakota,1002
+13,Jason,Sudeikis,60,Kansas,1003
+14,Robert,Pattinson,45,Los Angeles,1004
+15,Nathan,Fillion,55,Canada,1005
+16,Robert,Pattinson,45,Los Angeles,1006
+17,James,McAvoy,49,Scotland,1007
+18,Paul,Rudd,52,New York,1008
+19,Kenneth,Branagh,44,Northern Ireland,1009
+20,Hugh,Grant,58,London,1010
+21,Matthew,Goode,46,England,1011
+22,Judd,Apatow,58,Los Angeles,1012
+23,Michael,Fassbender,46,Germany,1013
+24,Dane,Cook,52,United States,1014
+25,Jason,Sudeikis,60,Kansas,1015
+26,Kelly,Asbury,76,United States,1016
+27,Matthew,McConaughey,52,Los Angeles,1017
+28,Vince,Vaughn,60,Minnesota,1018
+29,Kirk,Cameron,59,United States,1019
+30,James,Marsden,50,Columbia,1020
+31,Channing,Tatum,58,Alabama,1021
+32,Mike,Mills,37,New York,1022
+33,Aamir,Khan,52,India,1023
+34,Aamir,Khan,52,India,1024
+35,Shah Rukh,Khan,53,India,1025
+36,Prabhas,NULL,53,India,1026
+37,Allu,Arjun,49,India,1027
+38,Shah Rukh,Khan,53,India,1028
+39,Akshay,Kumar,50,India,1029
